@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+atualização branch tarefa-1
+linha 1
+linha 2
+linha 3
+linha 4
+=======
+merge
+>>>>>>> parent of e588afd (atualizacao branch taerfa-1)
